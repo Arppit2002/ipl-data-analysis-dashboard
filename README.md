@@ -73,3 +73,21 @@ Data Analytics & Business Intelligence Project
 **Domain:** Sports Analytics  
 **Tool:** Microsoft Power BI  
 **Dataset:** Indian Premier League (IPL)
+
+
+
+---
+
+## 📸 Dashboard Preview
+
+### 1. Toss Impact & Player Performance Analysis
+
+![Toss Impact Dashboard](Screenshot%202026-11-11%20193311.png)
+
+### 2. Team Performance & Venue Analysis
+
+![Team Performance Dashboard](Screenshot%202026-11-11%20193401.png)
+
+### 3. Additional Dashboard Analysis
+
+![IPL Dashboard Analysis](Screenshot%202026-11-11%20193419.png)
